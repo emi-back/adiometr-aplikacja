@@ -1,0 +1,38 @@
+STATE_SEMI_TEST rozpoczety
+info: test ucha lewego, 1000 Hz
+info: test ucha lewego, 2000 Hz
+info: test ucha lewego, 3000 Hz
+info: test ucha lewego, 4000 Hz
+info: test ucha lewego, 8000 Hz
+info: retest ucha lewego, 1000 Hz
+info: test ucha lewego, 250 Hz
+info: test ucha lewego, 500 Hz
+info: test ucha prawego, 1000 Hz
+info: test ucha prawego, 2000 Hz
+info: test ucha prawego, 3000 Hz
+info: test ucha prawego, 4000 Hz
+info: test ucha prawego, 8000 Hz
+info: retest ucha prawego, 1000 Hz
+info: test ucha prawego, 250 Hz
+info: test ucha prawego, 500 Hz
+STATE_FINISHED
+===CSV_START===
+ear,frequency_hz,threshold_db
+L,1000,20
+L,2000,15
+L,3000,10
+L,4000,25
+L,8000,30
+L,1000,20
+L,250,15
+L,500,10
+P,1000,20
+P,2000,15
+P,3000,10
+P,4000,25
+P,8000,30
+P,1000,20
+P,250,15
+P,500,10
+===CSV_END===
+powrot do menu glownego
